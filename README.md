@@ -10,30 +10,30 @@
 
 ## Classes
 
-* Creation
-* Statics
-* Extends
+**Creation**
+**Statics**
+**Extends**
 
 ## Destructuring
 
-* Array Destructuring
-* String Destructuring
-* Object Destructuring
-* Destructuring with Defaults
-* Destructuring Function Parameters
-* Destructuring with Alias
+**Array Destructuring**
+**String Destructuring**
+**Object Destructuring**
+**Destructuring with Defaults**
+**Destructuring Function Parameters**
+**Destructuring with Alias**
 
 ## Rest
 
-* Rest as a Parameter
-* Rest while Destructuring
+**Rest as a Parameter**
+**Rest while Destructuring**
 
 ## Spread
 
-* Array Spread
+**Array Spread**
 
 ## Functions Defaults
 
-* Function Defaults
+**Function Defaults**
 
 
